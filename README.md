@@ -1,2 +1,3 @@
 # simpfileutil
-Just a collection of simple functions that can be used for collecting and analysing data from data files or log.
+
+A collection of simple functions can be used to collect and analyse data from data files or logs.
